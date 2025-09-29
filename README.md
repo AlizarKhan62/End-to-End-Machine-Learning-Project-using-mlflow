@@ -167,5 +167,5 @@ MLflow
 
 
 git add .
-git commit -m "Updated project files"
+git commit -m "cicd added"
 git push origin main
