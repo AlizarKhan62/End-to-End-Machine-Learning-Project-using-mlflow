@@ -1,4 +1,4 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+# Wine-Quality-Prediction-ML-Project-with-MLflow-and-AWS
 
 
 ## Workflows
