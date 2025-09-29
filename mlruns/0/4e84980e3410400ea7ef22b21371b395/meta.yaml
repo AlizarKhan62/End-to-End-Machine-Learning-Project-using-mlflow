@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/end%20to%20end%20ml%20project/mlruns/0/4e84980e3410400ea7ef22b21371b395/artifacts
+end_time: 1759128541877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e84980e3410400ea7ef22b21371b395
+run_name: hilarious-auk-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759128541331
+status: 3
+tags: []
+user_id: Admin

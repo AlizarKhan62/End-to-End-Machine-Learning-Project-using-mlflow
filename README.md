@@ -11,3 +11,7 @@ Update the components
 Update the pipeline
 Update the main.py
 Update the app.py
+
+git add .
+git commit -m "Updated project files"
+git push origin main
